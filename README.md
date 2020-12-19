@@ -1,2 +1,5 @@
 # Soundcool_OSC_Android
-Android app with music control surfaces to control the Soundcool system via WiFi.
+
+Institutional repository: https://github.com/SoundcoolProject/SoundcoolOSCAndroid
+
+I developed this first version of the Soundcool Android app in 2017 when I was working at the Universitat Politècnica de València (Spain). It provides a number of music control surfaces as part of the Soundcool system.
